@@ -1,4 +1,4 @@
 Now has stuff too!
 Good Job!!!
-Edit from the Computer
-Edit from Visual Studio
+Edit from the web
+Edit from Main Branch
